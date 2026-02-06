@@ -1,5 +1,5 @@
 # ChatBot-Using-LangChain-and-OpenAI-API
-# Simple Chatbot with LangChain + OpenAI (Colab)
+
 
 A minimal chatbot built with **LangChain** and the **OpenAI API**.  
 It accepts user questions and returns answers using a LangChain chain (Prompt → LLM → Output Parser).  
