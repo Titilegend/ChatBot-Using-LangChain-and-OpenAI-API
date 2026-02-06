@@ -1,4 +1,4 @@
-# ChatBot-Using-LangChain-and-OpenAI-API
+# # Simple Chatbot with LangChain and OpenAI
 
 
 A minimal chatbot built with **LangChain** and the **OpenAI API**.  
